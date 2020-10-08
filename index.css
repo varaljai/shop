@@ -37,6 +37,9 @@ background-size: 1800% 1800%;
 }
 
 img {
-  width: 100%;
+  width: 50%;
   height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
